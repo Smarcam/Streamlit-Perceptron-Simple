@@ -1,2 +1,9 @@
 # Streamlit-Perceptron-Simple
-Aplicacion
+Aplicación con Python y Streamlit "Neurona genérica" con las siguientes características:
+
+Vector de entrada
+Vector de pesos
+Sesgo
+Función de activación
+
+Aplicación: 
