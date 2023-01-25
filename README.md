@@ -6,4 +6,4 @@ Vector de pesos
 Sesgo
 Función de activación
 
-Aplicación: 
+Aplicación: [streamlit_Perceptrón_Simple](https://smarcam-streamlit-perceptron-simple-srcstreamlit-app-fbwkim.streamlit.app/)
