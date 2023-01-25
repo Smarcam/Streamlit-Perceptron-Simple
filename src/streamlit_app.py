@@ -7,8 +7,8 @@ st.set_page_config(
     layout="wide",
 )
 
-"""image = 'src/img/neurona.jpg'
-st.image(image, caption='Neurona')"""
+image = 'src/img/neurona.jpg'
+st.image(image, caption='Neurona')
 
 
 st.title("Simulador de una neurona")
